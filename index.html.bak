@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>index</title>
+  </head>
+  <body>
+    <table style="width: 1214px; height: 107px;" border="1">
+      <tbody>
+        <tr>
+          <td style="background-color: #cc0000; text-align: center;"><a href="file:///C:/Users/efya/Documents/salford/index.html"><span
+                style="font-weight: bold;">HOME</span></a></td>
+          <td style="background-color: #cc0000; text-align: center;"><span style="font-weight: bold;"><a
+                href="file:///C:/Users/efya/Documents/salford/aboutus.html">ABOUT
+                US</a></span></td>
+          <td style="background-color: #cc0000; text-align: center;"><span style="font-weight: bold;"><a
+                href="file:///C:/Users/efya/Documents/salford/contactus.html">CONTACT
+                US</a></span></td>
+        </tr>
+      </tbody>
+    </table>
+    <h1 style=" background-color: white; text-align: center;">WELCOME&nbsp; </h1>
+    <p style="background-color: white;"> Hello and welcome the my website. This
+      website has every information that you need to know about Michael
+      Salford.Though its not every information that you need can be found here
+      but u can contact me on the contact us page provided to get all your
+      curious questions and solutions to your answer there. Ihope you enjoy my
+      website.thank you</p>
+    <p style="background-color: white;"><br>
+    </p>
+    <p style="background-color: white;"><span style="font-weight: bold;">&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </span></p>
+    <div style="text-align: center;"><img title="hmpage" alt="" src="images/IMG-20160427-WA0009.jpg"><br>
+      <table style="width: 100%" border="1">
+        <tbody>
+          <tr>
+            <td style="background-color: #cc0000;"><br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+    </div>
+  </body>
+</html>

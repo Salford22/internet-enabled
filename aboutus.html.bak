@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>index</title>
+  </head>
+  <body>
+    <table style="width: 1214px; text-align: left; margin-left: auto; margin-right: auto; height: 101px; background-color: #cc0000;"
+      border="1">
+      <tbody>
+        <tr>
+          <td style="text-align: center;"><span style="color: #ffff66;"><a style="font-weight: bold;"
+                href="file:///C:/Users/efya/Documents/salford/index.html">HOME</a></span></td>
+          <td style="text-align: center;"><span style="color: #ffff66;"><span style="font-weight: bold;"><a
+                  href="file:///C:/Users/efya/Documents/salford/aboutus.html">ABOUT
+                  US</a></span></span></td>
+          <td style="text-align: center;"><span style="color: #ffff66;"><span style="font-weight: bold;"><a
+                  href="file:///C:/Users/efya/Documents/salford/contactus.html">CONTACT
+                  US</a></span></span></td>
+        </tr>
+      </tbody>
+    </table>
+    <h1 style="text-align: center;">ABOUT ME</h1>
+    <div style="text-align: center;"><img alt="" src="images/20170310_111316.jpg"></div>
+    <p style="text-align: left;">Also know as Skipper by many friends. i am a
+      very freindly person, likes to laugh alot but hate nonsense things that
+      dont bring success and meaning to life . A proud alumi of Swedru senior
+      high school, Swesco American is how we prefered to be called.i currently
+      am in Valley view university and&nbsp; offering Bsc.information technology
+      and currently in level 400. Though journey through this life hasnt been
+      easy i still keep the urge to keep fighting to last end and that is what
+      alwasy keeps me going and i always thank Jehovah God for my life and
+      blessings through my life and the urge to keep going.</p>
+    <table style="width: 1215px; height: 99px; text-align: left; margin-left: 0px; margin-right: auto;"
+      border="0">
+      <tbody>
+        <tr>
+          <td style="background-color: #cc0000;"><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="text-align: left;"><br>
+    </p>
+  </body>
+</html>
