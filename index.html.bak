@@ -3,7 +3,89 @@
   <head>
     <meta content="text/html; charset=windows-1252" http-equiv="content-type">
     <title>index</title>
-  </head>
+    <style type="text/css">
+#leftmyu:hover {  
+  text-align: left;
+}
+
+#leftmyu:hover {  
+  text-align: end;
+}
+
+#leftmyu:hover {  
+  text-align: right;
+}
+
+#leftmyu:hover {  
+  text-align: right;
+}
+
+#leftmyu:hover {  
+  text-align: right;
+}
+
+#leftmyu:hover {  
+  text-align: end;
+}
+
+#leftmyu:hover {  
+  text-align: end;
+}
+
+#leftmyu:hover {  
+  text-align: right;
+}
+
+#leftmyu:hover {  
+  text-align: right;
+}
+
+#leftmyu:hover {  
+  background-color: yellow;
+}
+
+#leftmyu:hover {
+}
+
+#leftmyu:hover {  
+  visibility: visible;
+}
+
+#leftmyu:hover {  
+  visibility: visible;
+}
+
+#leftmyu:hover {
+}
+
+#leftmyu:hover {  
+  float: left;
+}
+
+#leftmyu:hover {  
+  float: none;
+}
+
+#leftmyu:hover {  
+  visibility: hidden;
+}
+
+#leftmyu:hover {  
+  visibility: visible;
+}
+
+#leftmyu:hover {
+}
+
+#leftmyu:hover {  
+  clear: left;
+}
+
+#leftmyu:hover {  
+  clear: right;
+}
+
+</style></head>
   <body>
     <table style="width: 1214px; height: 107px;" border="1">
       <tbody>
@@ -19,7 +101,7 @@
         </tr>
       </tbody>
     </table>
-    <h1 style=" background-color: white; text-align: center;">WELCOME&nbsp; </h1>
+    <h1 id="leftmyu">WELCOME&nbsp; </h1>
     <p style="background-color: white;"> Hello and welcome the my website. This
       website has every information that you need to know about Michael
       Salford.Though its not every information that you need can be found here
@@ -33,7 +115,7 @@
         &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </span></p>
     <div style="text-align: center;"><img title="hmpage" alt="" src="images/IMG-20160427-WA0009.jpg"><br>
-      <table style="width: 100%" border="1">
+      <table style="width: 1197px; height: 77px;" border="1">
         <tbody>
           <tr>
             <td style="background-color: #cc0000;"><br>
